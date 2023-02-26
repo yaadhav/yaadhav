@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Hello Everyone </h1>
+  <h1 style={text-align :center }> Hello Everyone </h1>
 </p>
 
 
