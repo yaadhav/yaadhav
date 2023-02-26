@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&" alt="yaadhav" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yaadhav/yaadhav/blob/output/github-contribution-grid-snake.svg)
 
 
 
