@@ -1,6 +1,10 @@
 <p align="center">
-  <h1 style={text-align :center }> Hello Everyone </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
