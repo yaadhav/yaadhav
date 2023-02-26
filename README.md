@@ -7,14 +7,14 @@
 </h1>
 <p align="center">
 <a href="https://codeforces.com/profile/yaadhav.07">
-  <img height="50" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/121678020/221403512-88eb5542-c14e-4e40-bceb-bf32ed743b7b.png"/>
 </a>
 <a href="https://www.codechef.com/users/yaadhav_07">
-  <img height="50" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/121678020/221405210-6b7c0dd1-71a0-422c-98fe-16e495fb006b.png"/>
 </a>
                   
 <a href="https://www.hackerrank.com/yaadhav?hr_r=1">
-  <img height="50" src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/121678020/221404339-8940a7f1-bb4c-49b0-bed2-df0b069c8a2c.png"/>
 </a>
 </p>
 
