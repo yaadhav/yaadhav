@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&locale=en" alt="yaadhav" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&" alt="yaadhav" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&" alt="yaadhav" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
