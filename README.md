@@ -8,12 +8,15 @@
 <a href="https://codeforces.com/profile/yaadhav.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yaadhav.07" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&locale=en" alt="yaadhav" /></p>
+[![Yaadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaadhav)](https://github.com/yaadhav/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&" alt="yaadhav" /></p>
+![Yaadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaadhav&count_private=true)
 
-![Snake animation](https://github.com/yaadhav/yaadhav/blob/output/github-contribution-grid-snake.svg)
+![Yaadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true)
 
+![Yaadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&theme=radical)
 
+![Yaadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&bg_color=00000000)
 
-
+[![Yaadhav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yaadhav/github-readme-stats#gh-dark-mode-only)
+[![Yaadhav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yaadhav/github-readme-stats#gh-light-mode-only)
