@@ -4,11 +4,9 @@
 
 <h1 align="center"> 📈 &nbsp;My GitHub History!</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&theme=merko" alt="yaadhav" height="200" width="470" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yaadhav&show_icons=true&theme=merko" alt="yaadhav" height="200" width="470" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&theme=merko" alt="yaadhav" height="200" width="470" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaadhav&label=Profile%20views&color=0e75b6&style=flat" alt="yaadhav"  height="40" width="150" /> </p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&theme=merko" alt="yaadhav" height="200" width="470" /></p>
 
 <h2 align="center">
   My Accounts!
