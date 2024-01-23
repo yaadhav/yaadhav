@@ -8,8 +8,6 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhav&theme=merko" alt="yaadhav" height="200" width="470" /></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaadhav&theme=merko" alt="yaadhav" height="200" width="570" /></p>
-
 <h2 align="center">
   My Accounts!
 </h2>
