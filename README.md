@@ -47,15 +47,15 @@
 <h1 align="center">Coding Profiles</h1>
 <p align="center">
 <a href="https://codeforces.com/profile/yaadhav">
-<img style="padding: 10px 0px 10px 0px;" width="150" height="50" src="https://img.shields.io/badge/Specialist-spl?label=CodeForces&labelColor=grey&color=cyan&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fyaadhav"/>
+<img style="padding: 10px 0px 10px 0px;" width="150" height="30" src="https://img.shields.io/badge/Specialist-spl?label=CodeForces&labelColor=grey&color=cyan&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fyaadhav"/>
 </a>
 <img width="10" />
 <a href="https://codechef.com/users/yaadhav_07">
-<img style="padding: 10px 0px 10px 0px;" width="150" height="50" src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85-4star?label=CodeChef%20&labelColor=grey&color=%23633a6f&&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fyaadhav_07"/>
+<img style="padding: 10px 0px 10px 0px;" width="150" height="30" src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85-4star?label=CodeChef%20&labelColor=grey&color=%23633a6f&&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fyaadhav_07"/>
 </a>
 <img width="10" />
 <a href="https://leetcode.com/yaadhav">
-<img style="padding: 10px 0px 10px 0px;" width="150" height="50" src="https://img.shields.io/badge/250%2B%20Solves-250solves?label=LeetCode&labelColor=grey&color=%23D1941A"/>
+<img style="padding: 10px 0px 10px 0px;" width="150" height="30" src="https://img.shields.io/badge/250%2B%20Solves-250solves?label=LeetCode&labelColor=grey&color=%23D1941A"/>
 </a>
 </p>
 
